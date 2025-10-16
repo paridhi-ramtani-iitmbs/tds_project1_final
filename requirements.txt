@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+PyGithub
+requests
+openai
+python-dotenv
+pydantic
+retry
+pandas
+pillow
